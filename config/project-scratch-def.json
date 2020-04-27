@@ -19,6 +19,9 @@
       "passwordPolicies": {
         "enableSetPasswordInApi": true
       }
+    },
+    "recordPageSettings": {
+      "enableDynamicForms": true
     }
   }
 }
