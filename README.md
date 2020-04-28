@@ -1,4 +1,4 @@
-# Data Mask
+# Dynamic Forms
 
 This repo is part of a series of one-feature Salesforce platform demos.
 
