@@ -3,4 +3,4 @@ sfdx force:source:push
 sfdx force:user:permset:assign -n AppBuilder
 sfdx shane:user:password:set -g User -l User -p salesforce1
 sfdx force:org:open
-sfdx automig:load -d data
+sfdx automig:load -d data --concise
